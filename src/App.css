@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+  height: 90vh;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background:rgb(236, 230, 230);
+  border-radius: 3px;
+  box-shadow: 2px 2px 2px rgb(240, 228, 228)
+}
+.form {
+  width: auto;
+  height:52%;
+  margin-top: 15px;
+  background: rgb(246, 241, 241);
+  border-radius: 3px;
+  
+  box-shadow:2px 2px 2px rgb(240, 228, 228) ;
+  
+}
+.from_input {
+  height: 50px;
+  display: flex;
+  padding-top: 20px;
+}
+.label {
+  font-size: 20px;
+  width: 50%;
+  text-align: left;
+  margin-left: 20px;
+}
+.field {
+  width: 50%;
+  text-align: left;
+}
+input {
+  height: 30px;
+  width: 80%;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px rgb(240, 228, 228);
+}
+.from_button {
+  height: 30px;
+  width: 100px;
+  
+  margin-left:auto;
+  margin-right: auto;
+  
+ 
+}
+.sub-button {
+  height:100%;
+  width:100%;
+  background: rgb(20, 138, 20);
+  border-radius: 5px;
+  
+  box-shadow: 2px 2px 2px rgb(64, 180, 64);
+}
+table{
+  
+  width: 100%;
+  background: rgb(246, 241, 241);
+  border-collapse: collapse;
+}
+.del-button{
+width:50px;
+background: rgb(233, 40, 40);
+border-radius: 5px;
+box-shadow: 2px 2px 2px rgb(177, 74, 74);
+}
+.select{
+  width: 80%;
+  height: 30px;
+}
+
